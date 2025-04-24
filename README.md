@@ -1,6 +1,6 @@
 
 
-# 💻 Anthony Gabriel Santana dos Santos  
+# 💻 Anthony Gabriel  
 **Full Stack Developer** | Creating solutions with passion and excellence
 
 ## 🚀 About Me  
