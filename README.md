@@ -27,7 +27,7 @@ Olá! Sou estagiário na Sicoob Crediminas, atuando como Desenvolvedor Fullstack
 
 
 ## 📈 Estatísticas do GitHub
-![GitHub Streak](https://streak-stats.demolab.com?user=anthonygaab13)  
+[GitHub Streak](https://streak-stats.demolab.com?user=anthonygaab13)  
 ![GabrielGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonygaab13&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonygaab13&layout=compact&theme=tokyonight)
 
