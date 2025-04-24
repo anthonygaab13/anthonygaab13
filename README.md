@@ -1,6 +1,4 @@
-Claro! Aqui está a tradução para o inglês do seu texto:
 
----
 
 # 💻 Anthony Gabriel Santana dos Santos  
 **Full Stack Developer** | Creating solutions with passion and excellence
