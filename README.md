@@ -36,12 +36,6 @@ Traduzo regras de negócio de gestão de patrimônio (AuC, NNM, captação, chur
 - **Sicoob Central Crediminas** — Estagiário de Desenvolvimento de Software *(2024 – 2025)*
 - **MRV&CO** — Assistente de Dados e Analytics *(2023 – 2024)*
 
-## 📈 Estatísticas do GitHub
-
-[GitHub Streak](https://streak-stats.demolab.com?user=anthonygaab13)
-![Estatísticas do GabrielGB](https://github-readme-stats.vercel.app/api?username=anthonygaab13&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonygaab13&layout=compact&theme=tokyonight)
-
 ## 📫 Como falar comigo
 
 [💼 LinkedIn](https://www.linkedin.com/in/anthony-gabriel-3858631b9)
