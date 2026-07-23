@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre mim
 
-Atuo no mercado financeiro construindo plataformas de dados de ponta a ponta — da modelagem até a entrega do indicador pro negócio. Hoje estou aprofundando engenharia de dados: arquitetura medallion, pipelines de ETL, e documentando o processo em projetos publicados aqui.
+Atuo no mercado financeiro construindo plataformas de dados de ponta a ponta da modelagem até a entrega do indicador pro negócio. Hoje estou aprofundando engenharia de dados: arquitetura medallion, pipelines de ETL, e documentando o processo em projetos publicados aqui.
 
 Formado em Análise e Desenvolvimento de Sistemas pela PUC Minas.
 
